@@ -1,4 +1,4 @@
-# 🇮🇳 Indian Employee Salary Prediction System
+# Employee Salary Prediction 
 
 A machine learning-powered web application that predicts employee salary ranges based on various factors, specifically customized for the Indian job market.
 
