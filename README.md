@@ -45,18 +45,6 @@ streamlit run app.py
 
 ## 🎯 Key Features Implemented
 
-### ✅ Removed US-Centric Fields
-- ❌ Race (removed for privacy and relevance)
-- ❌ Marital Status (simplified to relationship status)
-- ❌ Capital Gains/Losses (not relevant for Indian context)
-- ❌ Census Final Weight (US-specific field)
-
-### ✅ Added Indian-Relevant Fields
-- 🇮🇳 **Country Selection**: India, US, UK, Canada, and other major countries
-- 💼 **Relationship Status**: Single, Married, Live-in Partner, Prefer not to say
-- 🏢 **Custom Profession**: Text input for "Other Services" occupation
-- 🏙️ **City Tiers**: Tier 1, 2, 3 cities relevant to Indian market
-- 💰 **Indian Salary Context**: ₹5 Lakhs threshold instead of $50K
 
 ## 🎨 User Interface
 
